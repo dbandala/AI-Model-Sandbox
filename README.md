@@ -1,2 +1,2 @@
 # AI-Model-Sandbox
-A collaborative space for testing, experimenting, and exploring the capabilities of large language models (LLMs).
+A collaborative space for testing, experimenting, and exploring the capabilities of large language (LLMs) and computer vision (CV) models. This repository is designed for prototyping prompts, fine-tuning models, evaluating performance, and building innovative AI-driven solutions. Whether you're experimenting with cutting-edge architectures or just tinkering with creative AI applications, this sandbox is your playground.
